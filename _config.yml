@@ -1,5 +1,5 @@
 ---
-name: SethAndAli.com
+name: sethandali.com
 description: Cool stuff
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
@@ -34,7 +34,7 @@ defaults:
   values:
     layout: post
     author: ali
-    avatar: "/assets/images/avatar1.jpg"
+    avatar: "/assets/images/kiss-backlit.jpg"
 - scope:
     path: _pages
   values:
