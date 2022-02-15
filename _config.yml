@@ -1,10 +1,10 @@
 ---
-name: SethAndAli.com
+name: sethandali.com
 description: Cool stuff
-logo: assets/images/logo.png
+logo: assets/images/kiss-backlit.jpg
 favicon: assets/images/favicon.ico
-email: wowthemesnet@gmail.com
-mailchimp-list: https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b
+email: info@sethandali.com
+mailchimp-list: 
 include:
 - _pages
 permalink: "/:title/"
@@ -14,18 +14,18 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 authors:
-  sal:
+  seth:
     name: Seth
     site: ''
-    avatar: ''
-    bio: ''
+    avatar: '/assets/images/seth-avatar.jpg'
+    bio: 'Seth Bio'
     email: ''
     twitter: ''
-  jane:
+  ali:
     name: Ali
     site: ''
-    avatar: ''
-    bio: ''
+    avatar: '/assets/images/ali-avatar.jpg'
+    bio: 'Ali bio'
     email: ''
     twitter: ''
 defaults:
@@ -33,8 +33,8 @@ defaults:
     path: _posts
   values:
     layout: post
-    author: sal
-    avatar: "/assets/images/avatar1.jpg"
+    author: ali
+    avatar: "/assets/images/kiss-backlit.jpg"
 - scope:
     path: _pages
   values:
