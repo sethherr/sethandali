@@ -1,7 +1,7 @@
 ---
 name: sethandali.com
 description: Cool stuff
-logo: assets/images/logo.png
+logo: assets/images/kiss-backlit.jpg
 favicon: assets/images/favicon.ico
 email: info@sethandali.com
 mailchimp-list: 
@@ -17,15 +17,15 @@ authors:
   seth:
     name: Seth
     site: ''
-    avatar: ''
-    bio: ''
+    avatar: '/assets/images/seth-avatar.jpg'
+    bio: 'Seth Bio'
     email: ''
     twitter: ''
   ali:
     name: Ali
     site: ''
-    avatar: ''
-    bio: ''
+    avatar: '/assets/images/ali-avatar.jpg'
+    bio: 'Ali bio'
     email: ''
     twitter: ''
 defaults:

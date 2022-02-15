@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Our wedding!"
-categories: [ Jekyll ]
-image: "assets/images/will-kiss-photo.jpg"
----
-Our wedding!

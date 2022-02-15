@@ -19,8 +19,8 @@ layout: default
 						{% if author.avatar %}
 						<img class="rounded-circle" src="{{author.avatar | relative_url }}" alt="{{author.name}}" width="70" />
 						{% endif %}
-						<small class="ml-3"> {{ author.name }} <span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
-							<span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
+						<small class="ml-3"> {{ author.name }}
+							<span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }}</span>
 						</small>
 					</div>
 				</div>
@@ -38,19 +38,12 @@ layout: default
 	<div class="row justify-content-center">
 		<!-- Share -->
 		<div class="col-lg-2 pr-4 mb-4 col-md-12">
-			<div class="sticky-top sticky-top-offset text-center">
+			<div class="sticky-top sticky-top-offset">
 				<div class="text-muted">
-					Share this
+					Something cool
 				</div>
 				<div class="share d-inline-block">
-					<!-- AddToAny BEGIN -->
-					<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-						<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-						<a class="a2a_button_facebook"></a>
-						<a class="a2a_button_twitter"></a>
-					</div>
-					<script async src="https://static.addtoany.com/menu/page.js"></script>
-					<!-- AddToAny END -->
+					We could put something cool here
 				</div>
 			</div>
 		</div>
@@ -102,30 +95,12 @@ layout: default
 					{% endif %}
 				</div>
 				<div class="col-md-10">
-					<h5 class="font-weight-bold">Written by {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>
+					<h5 class="font-weight-bold">Written by {{ author.name }}</h5>
 					{{ author.bio }}
 				</div>
 			</div>
 			{% endif %}
 
-		</div>
-	</div>
-</div>
-
-<!-- Aletbar Prev/Next -->
-<div class="alertbar">
-	<div class="container">
-		<div class="row prevnextlinks small font-weight-bold">
-			{% if page.previous.url %}
-			<div class="col-md-6 rightborder pl-0">
-				<a class="text-dark" href="{{ page.previous.url | relative_url }}">{% if page.previous.image %} <img height="30px" class="mr-1" src="{{page.previous.image | relative_url }}"> {% endif %} {{page.previous.title}}</a>
-			</div>
-			{% endif %}
-			{% if page.next.url %}
-			<div class="col-md-6 text-right pr-0">
-				<a class="text-dark" href="{{ page.next.url | relative_url }}"> {{page.next.title}} {% if page.next.image %} <img height="30px" class="ml-1" src="{{page.next.image | relative_url }}"> {% endif %}</a>
-			</div>
-			{% endif %}
 		</div>
 	</div>
 </div>
