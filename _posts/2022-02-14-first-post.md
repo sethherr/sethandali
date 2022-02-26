@@ -1,12 +1,10 @@
 ---
 layout: post
-title: First Post
+title: Seth and Ali get to know each other
 categories:
-- Jekyll
-- tutorial
+- Wedding
 image: assets/images/drone-n-bikes.jpg
+author: Seth
 
 ---
-First post
-
-We are putting together a website. It will replace our wedding website after the wedding.
+Here are the photos we had on our wedding website.
