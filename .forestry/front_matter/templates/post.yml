@@ -20,5 +20,3 @@ fields:
 - type: file
   name: image
   label: image
-pages:
-- _posts/2022-04-30-wedding.md
