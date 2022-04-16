@@ -10,6 +10,18 @@ image: ''
 
 #### Saturday, April 30, 2022
 
-Dress is party dress!
+Ceremony
 
-Ceremony followed by dinner, drinks, and dancing! The whole event will be outside and will be chilly in the evening. Kids welcome!
+***
+
+#### Schedule
+
+3pm: Ceremony
+
+4pm: Bicycle Parade
+
+5pm: Dinner party
+
+6pm: Dancing
+
+9:30pm: Music is off
