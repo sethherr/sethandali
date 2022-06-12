@@ -1,6 +1,6 @@
 ---
 name: sethandali.com
-description: Cool stuff
+description: Ali and Seth
 logo: assets/images/kiss-backlit.jpg
 favicon: assets/images/favicon.ico
 email: info@sethandali.com
@@ -17,15 +17,15 @@ authors:
   seth:
     name: Seth
     site: ''
-    avatar: '/assets/images/seth-avatar.jpg'
-    bio: 'Seth Bio'
+    avatar: "/assets/images/seth-avatar.jpg"
+    bio: Seth Bio
     email: ''
     twitter: ''
   ali:
     name: Ali
     site: ''
-    avatar: '/assets/images/ali-avatar.jpg'
-    bio: 'Ali bio'
+    avatar: "/assets/images/ali-avatar.jpg"
+    bio: Ali bio
     email: ''
     twitter: ''
 defaults:
