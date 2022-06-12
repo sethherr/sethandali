@@ -1,19 +1,14 @@
 ---
 layout: post
-title: Our wedding!
+title: Engagement ceremony!
 categories:
 - wedding
 image: assets/images/will-kiss-photo.jpg
-author: Seth
 
 ---
 
-Ali and Seth got married on April 30th, 2022.
+In May of 2021, Seth and Ali had an engagement ceremony in Sacramento.
 
-The program for the wedding:
+_Photos here_
 
-Video of the wedding:
-
-Professional photos of the wedding:
-
-Photos from our friends
+[Link to video](#)
