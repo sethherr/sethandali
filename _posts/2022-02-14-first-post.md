@@ -8,3 +8,5 @@ author: Seth
 
 ---
 Here are the photos we had on our wedding website.
+
+![](/assets/images/2019-02-09-ski-touring-graham.jpg)
