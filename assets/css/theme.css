@@ -1,3 +1,39 @@
+/*
+  Seth and ali personal styles 
+*/
+
+/* Styles for photo list! */
+.photo-list {
+  display: flex;
+  position: relative;
+  flex-wrap: wrap;
+  clear: both;
+  padding: 0;
+  margin: 0 -10px;
+}
+.photo-list li {
+  display: block;
+  flex: 0 0 50%;
+  max-width: 50%;
+  position: relative;
+  padding: 5px 10px;
+  min-height: 1px;
+  /* Font styles  */
+  font-size: 80%;
+  line-height: 1.5;
+  margin: 0 0 1em;
+}
+.photo-list li img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 0 5px;
+}
+
+.photo-list li a, .photo-list li a:hover, .photo-list li a:active {
+  color: #212529 !important; /* body font color */
+}
+
 /*!
  * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
  */
