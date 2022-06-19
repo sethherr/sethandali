@@ -23,6 +23,12 @@
   line-height: 1.5;
   margin: 0 0 1em;
 }
+
+.photo-list li.double-width {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
 .photo-list li img {
   display: block;
   width: 100%;

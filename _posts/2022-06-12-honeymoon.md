@@ -2,7 +2,8 @@
 layout: post
 title: Honeymoon adventures
 categories:
-- wedding
+- adventures
+- marriage
 image: assets/images/2022-6-4-freddie-mercury.jpeg
 
 ---
