@@ -37,7 +37,7 @@ layout: default
 <div class="container-lg pt-4 pb-4">
 	<div class="row justify-content-center">
 		<!-- Share -->
-		<div class="col-lg-2 pr-4 mb-4 col-md-12">
+		<!-- <div class="col-lg-2 pr-4 mb-4 col-md-12">
 			<div class="sticky-top sticky-top-offset">
 				<div class="text-muted">
 					Cool stuff
@@ -46,7 +46,7 @@ layout: default
 					We could think of something to put here
 				</div>
 			</div>
-		</div>
+		</div> -->
 
 		<div class="col-md-12 col-lg-8">
 
@@ -85,22 +85,6 @@ layout: default
 				</div>
 			</div>
 			{% endif %}
-
-			<!-- Author Box -->
-			{% if page.author %}
-			<div class="row mt-5">
-				<div class="col-md-2 align-self-center">
-					{% if author.avatar %}
-					<img class="rounded-circle" src="{{author.avatar | relative_url}}" alt="{{author.name}}" width="90" />
-					{% endif %}
-				</div>
-				<div class="col-md-10">
-					<h5 class="font-weight-bold">Written by {{ author.name }}</h5>
-					{{ author.bio }}
-				</div>
-			</div>
-			{% endif %}
-
 		</div>
 	</div>
 </div>
