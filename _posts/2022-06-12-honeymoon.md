@@ -20,4 +20,4 @@ Since a visit to the Alps in 2019, Ali has wanted to stay and hike between [Swis
 
 ![](/assets/images/2022-6-7-dolenhornhutte-ali.jpg)
 
-_The title photo is in front of the Freddie Mercury statue in Montreux - which is the finish point of the_ [_Hope 1000_](https://bikepacking.com/routes/hope-1000/)_, the bikepacking trip that we originally were planning on taking_
+_The title photo is in front of the Freddie Mercury statue in Montreux - which is the finish point of the_ [_Hope 1000_](https://bikepacking.com/routes/hope-1000/)_, the bikepacking trip that we originally were planning on taking ;)_
