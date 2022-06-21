@@ -10,7 +10,7 @@ author: ''
 ---
 Thank you to everyone who contributed to our honeymoon!
 
-**Check out** [**the photo album **](https://photos.app.goo.gl/2515vJSTwsexBeaa8)to see our photos and read about our trip in the photo captions, or read on here to get a little bit more information.
+**Check out** [**the photo album **](https://photos.app.goo.gl/2515vJSTwsexBeaa8)to see our photos and read about our trip in the photo captions, or read on to get a little bit more information.
 
 In early May, after much deliberation (and lots of flight research/agonization) we booked tickets to Geneva, Switzerland which was conveniently near the end point of the Hope 1000 - a circuitous bikepacking route through the Swiss Alps. We were beginning to work through the bike logistics of our trip when Seth broke his wrist mountain biking in Oakland and we decided long-distance mountain biking probably wasn't in the cards for the trip.
 
