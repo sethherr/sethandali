@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Honeymoon adventures
+title: Honeymoon Adventures!
 categories:
 - adventures
 - marriage
