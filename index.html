@@ -156,7 +156,11 @@ description: "Ali and Seth's website"
   <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
   <div class="row mt-5">
     <div class="col-md-12 main-loop">
-      <h4 class="font-weight-bold spanborder"><span>Our Stories</span></h4>
+      <!--
+        comment out our stories because we don't have enough posts
+
+        <h4 class="font-weight-bold spanborder"><span>Our Stories</span></h4>
+      -->
 
       {% for post in paginator.posts %}
       {% include main-loop-card.html %}
