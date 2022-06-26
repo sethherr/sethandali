@@ -4,12 +4,10 @@ title: Honeymoon Adventures!
 categories:
 - adventures
 - marriage
-image: assets/images/2022-6-4-freddie-mercury.jpeg
+image: "/assets/images/ceaa21a2-69dd-49c5-ac72-23e31b78fe0f.JPG"
 author: ''
 
 ---
-Thank you to everyone who contributed to our honeymoon!
-
 **Check out** [**the photo album**](https://photos.app.goo.gl/2515vJSTwsexBeaa8) to see our photos and read about our trip in the photo captions - or read on for a little bit more information.
 
 In early May, after much deliberation (and lots of flight research/agonization) we booked tickets to Geneva, Switzerland which was conveniently near the end point of the Hope 1000 - a circuitous bikepacking route through the Swiss Alps. We were beginning to work through the bike logistics of our trip when Seth broke his wrist mountain biking in Oakland and we decided long-distance mountain biking probably wasn't in the cards for the trip.
@@ -20,4 +18,6 @@ Since a visit to the Alps in 2019, Ali has wanted to stay and hike between [Swis
 
 ![](/assets/images/2022-6-7-dolenhornhutte-ali.jpg)
 
-_The title photo is in front of the Freddie Mercury statue in Montreux - which is the finish point of the_ [_Hope 1000_](https://bikepacking.com/routes/hope-1000/)_, the bikepacking trip that we originally were planning on taking ;)_
+Here is a photo of the two of us in front of the Freddie Mercury statue in Montreux - which is the finish point of the [Hope 1000](https://bikepacking.com/routes/hope-1000/), the bikepacking trip that we originally were planning on taking ;)
+
+![](/assets/images/2022-6-4-freddie-mercury.jpeg)
