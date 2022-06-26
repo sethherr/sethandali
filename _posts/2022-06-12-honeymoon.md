@@ -4,7 +4,7 @@ title: Honeymoon Adventures!
 categories:
 - adventures
 - marriage
-image: "/assets/images/ceaa21a2-69dd-49c5-ac72-23e31b78fe0f.JPG"
+image: "/assets/images/2022-06-13-aletsch-glacier.jpg"
 author: ''
 
 ---
@@ -18,6 +18,6 @@ Since a visit to the Alps in 2019, Ali has wanted to stay and hike between [Swis
 
 ![](/assets/images/2022-6-7-dolenhornhutte-ali.jpg)
 
-Here is a photo of the two of us in front of the Freddie Mercury statue in Montreux - which is the finish point of the [Hope 1000](https://bikepacking.com/routes/hope-1000/), the bikepacking trip that we originally were planning on taking ;)
+Finally, here is a photo of the two of us in front of the Freddie Mercury statue in Montreux - which is the finish point of the [Hope 1000](https://bikepacking.com/routes/hope-1000/), the bikepacking trip that we originally were planning on taking ;)
 
 ![](/assets/images/2022-6-4-freddie-mercury.jpeg)
