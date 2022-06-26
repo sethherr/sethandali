@@ -17,7 +17,7 @@ description: "Ali and Seth's website"
       <div class="card border-0 mb-4 box-shadow">
         <a href="{{ latest_post.url | relative_url }}">
           <div class="topfirstimage"
-            style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{ latest_post.image | relative_url }}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>
+            style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{ latest_post.image | relative_url }}{% endif %}); height: 300px;    background-size: cover;    background-repeat: no-repeat;"></div>
         </a>
         <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
           <h2 class="h4 font-weight-bold">
