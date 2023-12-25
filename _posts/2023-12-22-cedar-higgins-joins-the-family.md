@@ -7,22 +7,19 @@ categories:
 - Cedar
 image: "/assets/images/2023-12-22-cedar.jpg"
 author: ''
-
 ---
 
-A birth story
+<p class="pt-3">That time we made a plan and then everything went according to it. Just kidding!</p>
 
-That time we made a plan and then everything went according to plan. Just kidding! 
+<h2 class="pt-3">Our birth story</h2>
 
 ---
-
-That time we made a plan and then everything went according to it. Just kidding!
 
 Shortly after finding out we were pregnant, Ali decided she was really excited about birthing at a birth center, a non-hospital facility staffed by midwives and offering less-medicated births. They have big tubs and beds and soft lighting and just generally really good vibes ✨
 
 We signed up with the San Francisco Birth Center and took all the classes, went to the visits, and were very excited about this new experience.
 
-Our due date for the baby's delivery was December 11th but Ali was convinced the baby would come 10 days early (just like her) and pop out like a cute little dolphin, whale, or other sea creature still to be decided. We made a detailed birth plan and great birthing playlists and Ali spent lots of time on the birth ball preparing for baby's appearance.
+Our due date for the baby's delivery was December 11th but Ali was convinced baby would come 10 days early (just like her) and pop out like a cute little dolphin, whale, or other sea creature still to be decided. We made a detailed birth plan and great birthing playlists and Ali spent lots of time on the birth ball preparing for baby's appearance.
 
 On Dec 20, after two weeks of “practice” or “warm up” contractions, and 5 days of increasingly intense induction methods, Ali finally went into labor during savasana at her favorite prenatal class! She managed to make it home where she and Seth excitedly began to apply all of the coping strategies they had learned in their birth classes. However, while other new moms discussed walks they were taking and meals they were cooking in early labor, Ali was experiencing pretty continual contractions that brought her to her knees and made it hard to do, well everything! 
 
@@ -32,13 +29,13 @@ In the waiting room at the hospital, Ali made the security guards and attendants
 
 <img src="/assets/images/2023-12-24-welcome-to-the-hospital.jpg" alt="welcome to the hospital" class="post-smaller-img">
 
-Before the hospital would give Ali the morphine shot, they needed to monitor the baby to make sure all was well. Unfortunately Ali was now dehydrated and not doing very well and baby's vitals weren't quite as robust as everyone was hoping for, so she got an IV to rehydrate her and some fentanyl to ease the pain. We had a conversation with the ObGyn between contractions and she strongly recommended we stay and get admitted, but told us - once you're admitted, we really won't want you to leave until you have this baby. Ali continued to have very intense contractions that she insisted on being on hands and knees for (the IV and monitoring leads were a lot to manage as she spun around every few minutes). Since the fentanyl wasn't really doing much, the doctor told us the morphine probably wouldn't let her get to sleep either. So with our birth plan out the window, we made the decision to stay in the hospital around 12:30am Thursday morning. Around 3am Ali opted for an epidural with the objective of getting a night's rest, so we could wake up and push the baby out. 
+Before the hospital would give Ali the morphine shot, they needed to monitor baby to make sure all was well. Unfortunately Ali was now dehydrated and not doing very well and baby's vitals weren't quite as robust as everyone was hoping for, so she got an IV to rehydrate her and some fentanyl to ease the pain. We had a conversation with the ObGyn between contractions and she strongly recommended we stay and get admitted, but told us - once you're admitted, we really won't want you to leave until you have this baby. Ali continued to have very intense contractions that she insisted on being on hands and knees for (the IV and monitoring leads were a lot to manage as she spun around every few minutes). Since the fentanyl wasn't really doing much, the doctor told us the morphine probably wouldn't let her get to sleep either. So with our birth plan out the window, we made the decision to stay in the hospital around 12:30am Thursday morning. Around 3am Ali opted for an epidural with the objective of getting a night's rest, so we could wake up and push baby out. 
 
 After approximately 2 hours of sleep Ali was woken up by a nurse pulling out her ear plug to tell us her contractions had slowed and that she needed Pitocin NOW. We groggily refused because we wanted to sleep, but we didn't really manage to get back to sleep and were exhausted when a new nurse came in at 7am to sit us down and tell us that baby was going to come out today, we needed to stop listening to the mommy blogs, get Ali on her back and crank the drugs.
 
 We took offense to this lecture, (Ali may have told the Nurse and Seth that they needed to stop yelling or leave the room) but eventually everyone calmed down, Ali started on Pitocin and we had a drowsy day, playing cards and having some great dance parties (for once Seth was the better dancer, since Ali could only really dance her upper body). We thought positive thoughts but by the evening it was clear that the baby would not be a solstice baby, joining us on the darkest night of the year.
 
-We had an incredible nurse that night who let us sleep (!!!), helped do a bunch of moving around and positions for Ali (which, shocker, really helped her comfort) and gave us the great news that we had made it to 7 centimeters by 7am on Friday. So we were in super optimistic moods! Our baby was going to have a cool birthday (122223!) and we were about to be parents! Unfortunately with all this great news came a little rough news - the baby was in a funky position (asynclitic) and was refusing to move down. We did some of the positions we learned in birth class (including an inversion - Ali's suggestion!) to try to get baby in the right position. Our doula came to the hospital and helped Ali move around and make it to 9 centimeters! Very very exciting news. And then… despite our best efforts, the baby stopped dropping, showed off some decelerating heartbeats, and everyone got a little worried. We were told that c-section was becoming more likely. 30 minutes later, we were told that c-section was strongly recommended. We had a plan, THIS WAS NOT IN THE PLAN.
+We had an incredible nurse that night who let us sleep (!!!), helped do a bunch of moving around and positions for Ali (which, shocker, really helped her comfort) and gave us the great news that we had made it to 7 centimeters by 7am on Friday. So we were in super optimistic moods! Our baby was going to have a cool birthday (122223!) and we were about to be parents! Unfortunately with all this great news came a little rough news - baby was in a funky position (asynclitic) and was refusing to move down. We did some of the positions we learned in birth class (including an inversion - Ali's suggestion!) to try to get baby in the right position. Our doula came to the hospital and helped Ali move around and make it to 9 centimeters! Very very exciting news. And then… despite our best efforts, baby stopped dropping, showed off some decelerating heartbeats, and everyone got a little worried. We were told that c-section was becoming more likely. 30 minutes later, we were told that c-section was strongly recommended. We had a plan, THIS WAS NOT IN THE PLAN.
 
 We agreed to the c-section and very quickly were whisked to the operating room. After 48 hours of labor Seth got a cute little gown and Ali got plopped on the table. About halfway through the operation, Ali showed everyone what she thought of the situation by starting to throw up everywhere, and then repeated that trick over and over. The anesthesiologist stationed at her head recommended sedation, possibly so he didn't have to watch her vomit into her hair anymore. She agreed, and took a little nap.
 
@@ -56,4 +53,4 @@ Everyone is healthy and happy and Cedar can't wait to go on adventures with all 
 
 <hr class="mt-5 mb-4 pb-3">
 
-We loved [San Francisco Birth Center](https://sfbirthcenter.com/) and would unreservedly recommend it. Birth center's are amazing! The New York Times had [an article about how they can face opposition](https://www.nytimes.com/2023/09/30/health/birthing-centers-alabama.html), but can lead to better outcomes.  
+We loved [San Francisco Birth Center](https://sfbirthcenter.com/) and would unreservedly recommend it. Birth center's are amazing! The New York Times had an article about how they can face opposition, but can [lead to better outcomes](https://www.nytimes.com/2023/09/30/health/birthing-centers-alabama.html). 
