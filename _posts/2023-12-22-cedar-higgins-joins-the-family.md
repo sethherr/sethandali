@@ -5,11 +5,12 @@ categories:
 - childbirth
 - kids
 - Cedar
-image: "/assets/images/2022-06-13-aletsch-glacier.jpg"
+image: "/assets/images/2023-12-22-cedar.jpg"
 author: ''
 
 ---
-Cedar Higgins joins the family!
+
+A birth story
 
 That time we made a plan and then everything went according to plan. Just kidding! 
 
@@ -29,6 +30,8 @@ We called our doula over around 6 pm. Around 8 pm the Birth Center, after listen
 
 In the waiting room at the hospital, Ali made the security guards and attendants a little uncomfortable by having some intense contractions on her hands and knees and doing some group humming to try to work through them. We were brought to an ER triage room by two lovely nurses, whom Ali promptly thanked by throwing up in the soiled linens bin and peeing all over the floor.
 
+<img src="/assets/images/2023-12-24-welcome-to-the-hospital.jpg" alt="welcome to the hospital" class="post-smaller-img">
+
 Before the hospital would give Ali the morphine shot, they needed to monitor the baby to make sure all was well. Unfortunately Ali was now dehydrated and not doing very well and baby's vitals weren't quite as robust as everyone was hoping for, so she got an IV to rehydrate her and some fentanyl to ease the pain. We had a conversation with the ObGyn between contractions and she strongly recommended we stay and get admitted, but told us - once you're admitted, we really won't want you to leave until you have this baby. Ali continued to have very intense contractions that she insisted on being on hands and knees for (the IV and monitoring leads were a lot to manage as she spun around every few minutes). Since the fentanyl wasn't really doing much, the doctor told us the morphine probably wouldn't let her get to sleep either. So with our birth plan out the window, we made the decision to stay in the hospital around 12:30am Thursday morning. Around 3am Ali opted for an epidural with the objective of getting a night's rest, so we could wake up and push the baby out. 
 
 After approximately 2 hours of sleep Ali was woken up by a nurse pulling out her ear plug to tell us her contractions had slowed and that she needed Pitocin NOW. We groggily refused because we wanted to sleep, but we didn't really manage to get back to sleep and were exhausted when a new nurse came in at 7am to sit us down and tell us that baby was going to come out today, we needed to stop listening to the mommy blogs, get Ali on her back and crank the drugs.
@@ -45,10 +48,12 @@ Seth went with him and did some skin to skin contact which calmed Cedar down. He
 
 Ali went to the recovery room with the doula and got her to tell her great delivery stories for some distraction. The amazing daytime nurses eventually took Ali in her recovery bed to the NICU for a quick visit with Seth and Cedar before going to her own room, where she waited anxiously to actually get to hang out with her baby. 
 
+<img src="/assets/images/2023-12-22-first-cedar-family-photo.jpg" alt="First family photo with Cedar" class="post-smaller-img">
+
 Cedar and Seth made it upstairs a little after 1am. In the morning, Seth ran home to pick up some things, since we'd packed for an overnight at the birth center, not a 72 hour extravaganza - and his shirt was pretty stinky. 
 
 Everyone is healthy and happy and Cedar can't wait to go on adventures with all of you.
 
----
+<hr class="mt-5 mb-4 pb-3">
 
-Birth center's are amazing, the New York Times had [an article about how they can face opposition from the medical establishment](https://www.nytimes.com/2023/09/30/health/birthing-centers-alabama.html). We loved [San Francisco Birth Center](https://sfbirthcenter.com/) and would unreservedly recommend it.
+We loved [San Francisco Birth Center](https://sfbirthcenter.com/) and would unreservedly recommend it. Birth center's are amazing! The New York Times had [an article about how they can face opposition](https://www.nytimes.com/2023/09/30/health/birthing-centers-alabama.html), but can lead to better outcomes.  

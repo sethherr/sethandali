@@ -2,6 +2,12 @@
   Seth and ali personal styles 
 */
 
+.post-smaller-img {
+  width: 66%;
+  display: block;
+  margin: 0 auto;
+}
+
 /* Styles for photo list! */
 .photo-list {
   display: flex;
