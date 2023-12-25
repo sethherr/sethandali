@@ -27,13 +27,13 @@ We called our doula over around 6 pm. Around 8 pm the Birth Center, after listen
 
 In the waiting room at the hospital, Ali made the security guards and attendants a little uncomfortable by having some intense contractions on her hands and knees and doing some group humming to try to work through them. We were brought to an ER triage room by two lovely nurses, whom Ali promptly thanked by throwing up in the soiled linens bin and peeing all over the floor.
 
-<img src="/assets/images/2023-12-24-welcome-to-the-hospital.jpg" alt="welcome to the hospital" class="post-smaller-img">
+<a href="/assets/images/2023-12-24-welcome-to-the-hospital.jpg"><img src="/assets/images/2023-12-24-welcome-to-the-hospital.jpg" title="Seth loves taking sufferfest photos" alt="welcome to the hospital" class="post-smaller-img"></a>
 
 Before the hospital would give Ali the morphine shot, they needed to monitor baby to make sure all was well. Unfortunately Ali was now dehydrated and not doing very well and baby's vitals weren't quite as robust as everyone was hoping for, so she got an IV to rehydrate her and some fentanyl to ease the pain. We had a conversation with the ObGyn between contractions and she strongly recommended we stay and get admitted, but told us - once you're admitted, we really won't want you to leave until you have this baby. Ali continued to have very intense contractions that she insisted on being on hands and knees for (the IV and monitoring leads were a lot to manage as she spun around every few minutes). Since the fentanyl wasn't really doing much, the doctor told us the morphine probably wouldn't let her get to sleep either. So with our birth plan out the window, we made the decision to stay in the hospital around 12:30am Thursday morning. Around 3am Ali opted for an epidural with the objective of getting a night's rest, so we could wake up and push baby out. 
 
 After approximately 2 hours of sleep Ali was woken up by a nurse pulling out her ear plug to tell us her contractions had slowed and that she needed Pitocin NOW. We groggily refused because we wanted to sleep, but we didn't really manage to get back to sleep and were exhausted when a new nurse came in at 7am to sit us down and tell us that baby was going to come out today, we needed to stop listening to the mommy blogs, get Ali on her back and crank the drugs.
 
-We took offense to this lecture, (Ali may have told the Nurse and Seth that they needed to stop yelling or leave the room) but eventually everyone calmed down, Ali started on Pitocin and we had a drowsy day, playing cards and having some great dance parties (for once Seth was the better dancer, since Ali could only really dance her upper body). We thought positive thoughts but by the evening it was clear that the baby would not be a solstice baby, joining us on the darkest night of the year.
+We took offense to this lecture, (Ali may have told the nurse and Seth that they needed to stop yelling or leave the room) but eventually everyone calmed down, Ali started on Pitocin and we had a drowsy day, playing cards and having some great dance parties (for once Seth was the better dancer, since Ali could only really dance her upper body). We thought positive thoughts but by the evening it was clear that the baby would not be a solstice baby, joining us on the darkest night of the year.
 
 We had an incredible nurse that night who let us sleep (!!!), helped do a bunch of moving around and positions for Ali (which, shocker, really helped her comfort) and gave us the great news that we had made it to 7 centimeters by 7am on Friday. So we were in super optimistic moods! Our baby was going to have a cool birthday (122223!) and we were about to be parents! Unfortunately with all this great news came a little rough news - baby was in a funky position (asynclitic) and was refusing to move down. We did some of the positions we learned in birth class (including an inversion - Ali's suggestion!) to try to get baby in the right position. Our doula came to the hospital and helped Ali move around and make it to 9 centimeters! Very very exciting news. And then… despite our best efforts, baby stopped dropping, showed off some decelerating heartbeats, and everyone got a little worried. We were told that c-section was becoming more likely. 30 minutes later, we were told that c-section was strongly recommended. We had a plan, THIS WAS NOT IN THE PLAN.
 
@@ -45,11 +45,14 @@ Seth went with him and did some skin to skin contact which calmed Cedar down. He
 
 Ali went to the recovery room with the doula and got her to tell her great delivery stories for some distraction. The amazing daytime nurses eventually took Ali in her recovery bed to the NICU for a quick visit with Seth and Cedar before going to her own room, where she waited anxiously to actually get to hang out with her baby. 
 
-<img src="/assets/images/2023-12-22-first-cedar-family-photo.jpg" alt="First family photo with Cedar" class="post-smaller-img">
+<a href="/assets/images/2023-12-22-first-cedar-family-photo.jpg"><img src="/assets/images/2023-12-22-first-cedar-family-photo.jpg" alt="First family photo with Cedar" class="post-smaller-img"></a>
 
 Cedar and Seth made it upstairs a little after 1am. In the morning, Seth ran home to pick up some things, since we'd packed for an overnight at the birth center, not a 72 hour extravaganza - and his shirt was pretty stinky. 
 
 Everyone is healthy and happy and Cedar can't wait to go on adventures with all of you.
+
+<a href="/assets/images/2023-12-22-cedar-with-cedar-block.jpg"><img src="/assets/images/2023-12-22-cedar-with-cedar-block.jpg" alt="If you're interested, you can place an order with Seth's new business making wooden nameplates, something he is clearly very skilled at" title="If you're interested, Seth is starting a new business making wooden nameplates, something he is clearly very skilled at" class="post-smaller-img"></a>
+
 
 <hr class="mt-5 mb-4 pb-3">
 
