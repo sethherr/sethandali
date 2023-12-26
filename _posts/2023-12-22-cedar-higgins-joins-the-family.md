@@ -43,6 +43,8 @@ At 12:59pm on December 22, 2023, Cedar Thomas Herr Higgins joined us earthside! 
 
 Seth went with him and did some skin to skin contact which calmed Cedar down. He was able to come off the oxygen in less than an hour and move to just monitoring - but he kept the stickers that the nasal cannula velcroed onto, in case there were issues (which is what you see in some of his first baby pictures).
 
+<a href="/assets/images/2023-12-22-seth-in-nicu.jpg"><img src="/assets/images/2023-12-22-seth-in-nicu.jpg" alt="Seth and Cedar in the NICU " class="post-smaller-img"></a>
+
 Ali went to the recovery room with the doula and got her to tell her great delivery stories for some distraction. The amazing daytime nurses eventually took Ali in her recovery bed to the NICU for a quick visit with Seth and Cedar before going to her own room, where she waited anxiously to actually get to hang out with her baby. 
 
 <a href="/assets/images/2023-12-22-first-cedar-family-photo.jpg"><img src="/assets/images/2023-12-22-first-cedar-family-photo.jpg" alt="First family photo with Cedar" class="post-smaller-img"></a>
