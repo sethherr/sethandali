@@ -2,9 +2,11 @@
 layout: post
 title: Cedar Higgins joins the family!
 categories:
-- childbirth
-- kids
 - Cedar
+- childbirth
+- family
+- kids
+
 image: "/assets/images/2023-12-22-cedar.jpg"
 author: ''
 ---
