@@ -1,7 +1,7 @@
 {
-  "name": "sethandali",
+  "name": "Seth and Ali",
   "version": "1.0.0",
-  "description": "Site content is managed by [forestry.io](https://forestry.io/)",
+  "description": "Site content is managed by [tina.io](https://tina.io/)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
