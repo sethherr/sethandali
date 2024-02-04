@@ -7,6 +7,7 @@ email: info@sethandali.com
 mailchimp-list: 
 include:
 - _pages
+- admin
 permalink: "/:title/"
 plugins:
 - jekyll-feed
