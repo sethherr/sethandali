@@ -20,12 +20,12 @@ export default defineConfig({
   client: { skip: true },
   build: {
     outputFolder: "admin",
-    publicFolder: "asssets",
+    publicFolder: "./",
   },
   media: {
     tina: {
       mediaRoot: "",
-      publicFolder: "asssets",
+      publicFolder: "./",
     },
   },
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
@@ -35,7 +35,7 @@ export default defineConfig({
         format: "yml",
         label: "Configuration",
         name: "configuration",
-        path: ".",
+        path: "",
         ui: {
           allowedActions: {
             create: false,
