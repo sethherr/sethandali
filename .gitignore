@@ -9,3 +9,6 @@ vendor/bundle
 
 # macOS
 .DS_Store
+
+node_modules
+.env
